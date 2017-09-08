@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Hello World</title>
 </head>
-<body bgcolor="#E6E6FA">
+<body bgcolor="#46E6FA">
     <%= "Hello World!" %>
 
 
