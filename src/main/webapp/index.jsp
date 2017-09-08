@@ -8,5 +8,7 @@
 </head>
 <body>
     <%= "Hello World!" %>
+
+    <img src="kitten.jpeg"/>
 </body>
 </html>
